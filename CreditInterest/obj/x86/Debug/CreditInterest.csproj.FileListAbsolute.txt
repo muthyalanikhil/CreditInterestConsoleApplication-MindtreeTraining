@@ -1,0 +1,4 @@
+D:\day3\CreditInterest\CreditInterest\bin\Debug\CreditInterest.exe
+D:\day3\CreditInterest\CreditInterest\bin\Debug\CreditInterest.pdb
+D:\day3\CreditInterest\CreditInterest\obj\x86\Debug\CreditInterest.exe
+D:\day3\CreditInterest\CreditInterest\obj\x86\Debug\CreditInterest.pdb
